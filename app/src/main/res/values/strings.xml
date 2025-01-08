@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DaVinciApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Leonardo di ser Piero da Vinci</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_alta">Alta</string>
+    <string name="action_baja">Baja</string>
+    <string name="action_modificacion">Modificación</string>
+
+
+    <string name="menu_pintor">Pintor</string>
+    <string name="menu_escultor">Escultor</string>
+    <string name="menu_cientifico">Científico</string>
+    <string name="menu_inventor">Inventor</string>
+
+</resources>
